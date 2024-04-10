@@ -1,16 +1,17 @@
-### Hi there 👋
+# Come on in!
 
-<!--
-**treading0light/treading0light** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who is this guy?
+I am a developer eager to be a part of a great technological revolution, one that will provide unprecedented methods of storytelling and life-living.
 
-Here are some ideas to get you started:
+## Missions
+- To build things that people WANT to use.
+- To chase the part of human nature that creates solutions.
+- To traverse a lifelong path of learning.
+- To put order to chaos, and to take from chaos that which will improve order.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What else?
+Currently, I am building a SaaS project for a client using Laravel, Livewire, Volt, and will soon provide that software to businesses everywhere. 
+I aim to find a balance between personal projects and my main grind.
+
+## Check out my portfolio!
+[www.tonygreen.dev](http://www.tonygreen.dev)
